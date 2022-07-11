@@ -1,6 +1,6 @@
 # controle-de-despesas-pessoais
 
-Este projeto tem como objetivo implementar progressivamente e de forma didática uma aplicação web para controle de despesas pessoais
+Este projeto tem como objetivo implementar progressivamente e de forma didática uma aplicação web para controle de despesas pessoais, visando auxiliar o usuário a ter um controle fácil e rápido das duas contas do dia a dia.
 
 O frontend da aplicação foi desenvolvido com Angular e o backend foi simulado pela implementação de uma API Fake, usando o JSON Server.
 
